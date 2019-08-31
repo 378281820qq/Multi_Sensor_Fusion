@@ -42,7 +42,7 @@ cmake .. && make
 - **运行**
 程序运行也非常简单，给定配置文件和log输出目录即可
 ```shell
-./mscnav_loose_couple ../config/configture.ini ./log
+./mscnav_loose_couple ../config/configture.ini ./log/
 ```
 
 #### 2.4 数据说明
